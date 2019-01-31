@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cover
 title: Checha | @chechayo
 ---
 
